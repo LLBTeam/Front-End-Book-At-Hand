@@ -27,7 +27,7 @@
 * [第六章 打包工具](Chapter6/README.md)
     * [Gulp](Chapter6/Gulp.md)
     * [Grunt](Chapter6/Grunt.md)
-    * [Webpack](Chapter6/Webpack.md)
+    * [Webpack4初体验](Chapter6/Webpack4初体验.md)
     * [Browserify](Chapter6/Browserify.md)
 * [第七章 UI库/框架](Chapter7/README.md)
     * [PC端框架对比](Chapter7/PC端.md)
