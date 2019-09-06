@@ -1,2 +1,2 @@
-# 6.4：Browserify
+# Browserify
 

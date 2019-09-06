@@ -1,2 +1,2 @@
-# 5.3：Angular.js
+# Angular.js
 

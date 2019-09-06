@@ -1,2 +1,2 @@
-# 6.3：Webpack
+# Webpack
 
